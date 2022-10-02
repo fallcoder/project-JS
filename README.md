@@ -1,8 +1,6 @@
 # project-JS
 
-Calculator - App
+<h1>Calculator - App</h1>
 
-I implemented this application with 
--HTML 
--CSS 
--JAVASCRIPT
+I implemented this application with HTML CSS and JAVASCRIPT
+
